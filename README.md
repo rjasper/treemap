@@ -13,7 +13,7 @@ It implements Java's java.util.NavigableMap interface.
 
 ### Install
 ```
-gem install treemap
+gem install treemap-fork
 ```
 
 
