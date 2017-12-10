@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'treemap-fork'
-  s.version     = '1.0.4-SNAPSHOT'
+  s.version     = '1.0.4.1'
   s.date        = '2017-12-10'
   s.summary     = "TreeMap is a Ruby port of the Android implementation of Java's java.util.TreeMap class."
   s.description = <<-DESC
