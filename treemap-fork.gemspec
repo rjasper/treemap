@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
     The reference implementation is at https://android.googlesource.com/platform/libcore.git/+/android-6.0.1_r32/luni/src/main/java/java/util/TreeMap.java
   DESC
   s.authors     = ["David Ellis", "Rico Jasper"]
-  s.email       = "jasper.rico@gmail.com"
+  s.email       = ["davidkellis@gmail.com", "jasper.rico@gmail.com"]
   s.files       = ["lib/treemap-fork.rb", "lib/treemap/tree_map.rb", "lib/treemap/bounded_map.rb"]
   s.homepage    = "https://github.com/rjasper/treemap"
   s.license     = "MIT"
